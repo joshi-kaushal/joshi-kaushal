@@ -12,7 +12,7 @@ I am a Junior at Mumbai University pursuing Computer Science from Vidyalankar In
 
 ### 📝 I'm Currently Learning...
 
-- Full Stack JavaScript Web Development (MERN Stack).
+- Full Stack JavaScript Web Development (MERN Stack)
 - UI/UX Development with Figma
 - Web 3.0 and blockchain development
 

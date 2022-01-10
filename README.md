@@ -21,6 +21,10 @@ I am a Junior at Mumbai University pursuing Computer Science from Vidyalankar In
 - Specializing in React JS
 - Getting better at Data Structures and Algorithms
 
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 ### 👨‍💻 My Tech Stack:
 
 <div align="center">

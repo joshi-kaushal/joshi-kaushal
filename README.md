@@ -1,13 +1,13 @@
 # Hello All! Kaushal Joshi here 👋
 
-I am a Junior at Mumbai University pursuing Computer Science from Vidyalankar Institute of Technology, Wadala.
+I am a Software Engineering intern at [HackerNoon](https://hackernoon.com/), and a Computer Science junior at Mumbai University.  
+My specialization is in front end web development with React, amd I am well fimiliar with MERN Stack and UI designing with Figma.
 
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://clumsycoder.hashnode.dev)  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://github.com/joshi-kaushal)   [![Twitter](https://img.shields.io/badge/clumsy_coder-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/clumsy_coder)
 
 ### 😄 Little Bit About Me!
 
 - Completed Diploma in Computer Engineering from Government Polytechnic Mumbai with **92.7%**.
-- Currently a Junior at Mumbai University pursuing **Computer Science** from Vidyalankar Institute of Technology, Wadala.
 - **Fun fact:** I was about to stop pursuing Software Development, but then I met JavaScript!
 
 ### 📝 I'm Currently Learning...

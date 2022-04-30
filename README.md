@@ -21,6 +21,11 @@ My specialization is in front end web development with React, amd I am well fimi
 - Specializing in React JS
 - Getting better at Data Structures and Algorithms
 
+# :zap: Recent Activity 
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 ### 👨‍💻 My Tech Stack:
 
 <div align="center">

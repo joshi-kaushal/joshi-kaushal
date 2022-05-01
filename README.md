@@ -3,6 +3,7 @@
 I am a Web Developer and Technical Writer with passion for technology, open source and computers. Currently a computer science junior at Mumbai University.  
 I have been software development intern at [HackerNoon](https://hackernoon.com/) from January 2022 to April 2022.
 
+<a href="https://app.daily.dev/clumsycoder"><img src="https://api.daily.dev/devcards/614e06c39f3f49cbad528d60689782d0.png?r=z00" align="right" width="300" alt="Kaushal Joshi's Dev Card"/></a> 
 
 ## :zap: Recent Activity 
 <!--START_SECTION:activity-->

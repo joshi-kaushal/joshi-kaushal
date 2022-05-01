@@ -22,9 +22,8 @@ My specialization is in front end web development with React, amd I am well fimi
 - Getting better at Data Structures and Algorithms
 
 # :zap: Recent Activity 
-<!--RECENT_ACTIVITY:activity-->
-
-<!--RECENT_ACTIVITY:activity-->
+<!--START_SECTION:activity-->
+<!--START_SECTION:activity-->
 
 ### 👨‍💻 My Tech Stack:
 

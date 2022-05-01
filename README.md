@@ -1,25 +1,8 @@
-# Hello All! Kaushal Joshi here 👋
+# Hello! Kaushal Joshi here 👋
 
-I am a Software Engineering intern at [HackerNoon](https://hackernoon.com/), and a Computer Science junior at Mumbai University.  
-My specialization is in front end web development with React, amd I am well fimiliar with MERN Stack and UI designing with Figma.
+I am a Web Developer and Technical Writer with passion for technology, open source and computers. Currently a computer science junior at Mumbai University.  
+I have been software development intern at [HackerNoon](https://hackernoon.com/) from January 2022 to April 2022.
 
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://clumsycoder.hashnode.dev)  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://github.com/joshi-kaushal)   [![Twitter](https://img.shields.io/badge/clumsy_coder-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/clumsy_coder)
-
-### 😄 Little Bit About Me!
-
-- Completed Diploma in Computer Engineering from Government Polytechnic Mumbai with **92.7%**.
-- **Fun fact:** I was about to stop pursuing Software Development, but then I met JavaScript!
-
-### 📝 I'm Currently Learning...
-
-- Full Stack JavaScript Web Development (MERN Stack)
-- UI/UX Development with Figma
-- Web 3.0 and blockchain development
-
-### 🔎 I'm Working On...
-
-- Specializing in React JS
-- Getting better at Data Structures and Algorithms
 
 ## :zap: Recent Activity 
 <!--START_SECTION:activity-->
@@ -37,6 +20,7 @@ My specialization is in front end web development with React, amd I am well fimi
 - [Maximize your Tailwind efficiency by using these resources](https://clumsycoder.hashnode.dev/tailwindcss-resources)
 - [Things to Know Before You Start Tailwind CSS](https://clumsycoder.hashnode.dev/getting-started-with-tailwindcss)
 <!-- BLOG-POST-LIST:END -->
+
 
 ## 👨‍💻 Tech Stack
 

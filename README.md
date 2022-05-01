@@ -21,13 +21,17 @@ My specialization is in front end web development with React, amd I am well fimi
 - Specializing in React JS
 - Getting better at Data Structures and Algorithms
 
-# :zap: Recent Activity 
+## :zap: Recent Activity 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#59](https://github.com/atapas/react-play/issues/59) in [atapas/react-play](https://github.com/atapas/react-play)
 2. ❗️ Opened issue [#60](https://github.com/atapas/react-play/issues/60) in [atapas/react-play](https://github.com/atapas/react-play)
 3. 💪 Opened PR [#59](https://github.com/atapas/react-play/pull/59) in [atapas/react-play](https://github.com/atapas/react-play)
 <!--END_SECTION:activity-->
 <!--START_SECTION:activity-->
+
+## ✍ Latest Blogs
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### 👨‍💻 My Tech Stack:
 

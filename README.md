@@ -31,6 +31,11 @@ My specialization is in front end web development with React, amd I am well fimi
 
 ## ✍ Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [How to Keep SSH Connection Alive for Longer Durations](https://clumsycoder.hashnode.dev/how-to-keep-ssh-connection-alive-for-longer-durations)
+- [RuPay: The Indian Card Payment Alternative Rivals Visa and Mastercard](https://clumsycoder.hashnode.dev/rupay-the-indian-card-payment-alternative-rivals-visa-and-mastercard)
+- [How India Revolutionised its Digital Payment System](https://clumsycoder.hashnode.dev/how-india-revolutionised-its-digital-payment-system)
+- [Maximize your Tailwind efficiency by using these resources](https://clumsycoder.hashnode.dev/tailwindcss-resources)
+- [Things to Know Before You Start Tailwind CSS](https://clumsycoder.hashnode.dev/getting-started-with-tailwindcss)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👨‍💻 My Tech Stack:

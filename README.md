@@ -6,7 +6,7 @@ I have been software development intern at [HackerNoon](https://hackernoon.com/)
 <a href="https://app.daily.dev/clumsycoder"><img src="https://api.daily.dev/devcards/614e06c39f3f49cbad528d60689782d0.png?r=z00" align="right" width="300" alt="Kaushal Joshi's Dev Card"/></a> 
 
 ## :zap: Recent Activity 
-<!--RECENT_ACTIVITY:start-->
+<!--START_SECTION:activity-->
 1. 🗣 Commented on [#59](https://github.com/atapas/react-play/issues/59) in [atapas/react-play](https://github.com/atapas/react-play)
 2. ❗️ Opened issue [#60](https://github.com/atapas/react-play/issues/60) in [atapas/react-play](https://github.com/atapas/react-play)
 3. 💪 Opened PR [#59](https://github.com/atapas/react-play/pull/59) in [atapas/react-play](https://github.com/atapas/react-play)
@@ -19,7 +19,7 @@ I have been software development intern at [HackerNoon](https://hackernoon.com/)
 - [How India Revolutionised its Digital Payment System](https://clumsycoder.hashnode.dev/how-india-revolutionised-its-digital-payment-system)
 - [Maximize your Tailwind efficiency by using these resources](https://clumsycoder.hashnode.dev/tailwindcss-resources)
 - [Things to Know Before You Start Tailwind CSS](https://clumsycoder.hashnode.dev/getting-started-with-tailwindcss)
-<!-- BLOG-POST-LIST:END -->
+<!--END_SECTION:activity-->
 
 
 ## 👨‍💻 Tech Stack

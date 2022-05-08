@@ -10,6 +10,10 @@ I have been software development intern at [HackerNoon](https://hackernoon.com/)
 1. 🗣 Commented on [#59](https://github.com/atapas/react-play/issues/59) in [atapas/react-play](https://github.com/atapas/react-play)
 2. ❗️ Opened issue [#60](https://github.com/atapas/react-play/issues/60) in [atapas/react-play](https://github.com/atapas/react-play)
 3. 💪 Opened PR [#59](https://github.com/atapas/react-play/pull/59) in [atapas/react-play](https://github.com/atapas/react-play)
+<!--END_SECTION:activity-->
+1. 🗣 Commented on [#59](https://github.com/atapas/react-play/issues/59) in [atapas/react-play](https://github.com/atapas/react-play)
+2. ❗️ Opened issue [#60](https://github.com/atapas/react-play/issues/60) in [atapas/react-play](https://github.com/atapas/react-play)
+3. 💪 Opened PR [#59](https://github.com/atapas/react-play/pull/59) in [atapas/react-play](https://github.com/atapas/react-play)
 <!--RECENT_ACTIVITY:start-->
 
 ## ✍ Latest Blogs

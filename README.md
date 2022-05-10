@@ -7,9 +7,9 @@ I have been software development intern at [HackerNoon](https://hackernoon.com/)
 
 ## :zap: Recent Activity 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1002](https://github.com/jwasham/coding-interview-university/issues/1002) in [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
-2. 🗣 Commented on [#59](https://github.com/atapas/react-play/issues/59) in [atapas/react-play](https://github.com/atapas/react-play)
-3. ❗️ Opened issue [#60](https://github.com/atapas/react-play/issues/60) in [atapas/react-play](https://github.com/atapas/react-play)
+1. 🗣 Commented on [#59](https://github.com/atapas/react-play/issues/59) in [atapas/react-play](https://github.com/atapas/react-play)
+2. 🗣 Commented on [#1002](https://github.com/jwasham/coding-interview-university/issues/1002) in [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
+3. 🗣 Commented on [#59](https://github.com/atapas/react-play/issues/59) in [atapas/react-play](https://github.com/atapas/react-play)
 <!--END_SECTION:activity-->
 
 ## ✍ Latest Blogs

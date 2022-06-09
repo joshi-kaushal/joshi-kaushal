@@ -7,8 +7,8 @@ I have been software development intern at [HackerNoon](https://hackernoon.com/)
 
 ## :zap: Recent Activity 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#239](https://github.com/reactplay/react-play/issues/239) in [reactplay/react-play](https://github.com/reactplay/react-play)
-2. 🗣 Commented on [#263](https://github.com/reactplay/react-play/issues/263) in [reactplay/react-play](https://github.com/reactplay/react-play)
+1. 🗣 Commented on [#263](https://github.com/reactplay/react-play/issues/263) in [reactplay/react-play](https://github.com/reactplay/react-play)
+2. 🗣 Commented on [#239](https://github.com/reactplay/react-play/issues/239) in [reactplay/react-play](https://github.com/reactplay/react-play)
 3. 🗣 Commented on [#263](https://github.com/reactplay/react-play/issues/263) in [reactplay/react-play](https://github.com/reactplay/react-play)
 <!--END_SECTION:activity-->
 

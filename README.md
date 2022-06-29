@@ -15,11 +15,11 @@ I have been software development intern at [HackerNoon](https://hackernoon.com/)
 ## ✍ Latest Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Add Script Tags in React](https://clumsycoder.hashnode.dev/how-to-add-script-tags-in-react)
 - [How to Fetch Large Data Files Through GitHub API](https://clumsycoder.hashnode.dev/how-to-fetch-large-data-files-through-github-api)
 - [How to Keep SSH Connection Alive for Longer Durations](https://clumsycoder.hashnode.dev/how-to-keep-ssh-connection-alive-for-longer-durations)
 - [RuPay: The Indian Card Payment Alternative Rivals Visa and Mastercard](https://clumsycoder.hashnode.dev/rupay-the-indian-card-payment-alternative-rivals-visa-and-mastercard)
 - [How India Revolutionised its Digital Payment System](https://clumsycoder.hashnode.dev/how-india-revolutionised-its-digital-payment-system)
-- [Maximize your Tailwind efficiency by using these resources](https://clumsycoder.hashnode.dev/tailwindcss-resources)
 <!-- BLOG-POST-LIST:END -->
 
 

@@ -7,9 +7,9 @@ I have been software development intern at [HackerNoon](https://hackernoon.com/)
 
 ## :zap: Recent Activity 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#26](https://github.com/MLH-Fellowship/prep-portfolio-22.JUL.PREP.2/pull/26) in [MLH-Fellowship/prep-portfolio-22.JUL.PREP.2](https://github.com/MLH-Fellowship/prep-portfolio-22.JUL.PREP.2)
-2. 🗣 Commented on [#22](https://github.com/MLH-Fellowship/prep-portfolio-22.JUL.PREP.2/issues/22) in [MLH-Fellowship/prep-portfolio-22.JUL.PREP.2](https://github.com/MLH-Fellowship/prep-portfolio-22.JUL.PREP.2)
-3. 🗣 Commented on [#59](https://github.com/reactplay/react-play/issues/59) in [reactplay/react-play](https://github.com/reactplay/react-play)
+1. ❗️ Opened issue [#33](https://github.com/MLH-Fellowship/prep-portfolio-22.JUL.PREP.2/issues/33) in [MLH-Fellowship/prep-portfolio-22.JUL.PREP.2](https://github.com/MLH-Fellowship/prep-portfolio-22.JUL.PREP.2)
+2. 💪 Opened PR [#26](https://github.com/MLH-Fellowship/prep-portfolio-22.JUL.PREP.2/pull/26) in [MLH-Fellowship/prep-portfolio-22.JUL.PREP.2](https://github.com/MLH-Fellowship/prep-portfolio-22.JUL.PREP.2)
+3. 🗣 Commented on [#22](https://github.com/MLH-Fellowship/prep-portfolio-22.JUL.PREP.2/issues/22) in [MLH-Fellowship/prep-portfolio-22.JUL.PREP.2](https://github.com/MLH-Fellowship/prep-portfolio-22.JUL.PREP.2)
 <!--END_SECTION:activity-->
 
 ## ✍ Latest Blogs

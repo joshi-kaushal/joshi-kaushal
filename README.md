@@ -7,9 +7,9 @@ I have been software development intern at [HackerNoon](https://hackernoon.com/)
 
 ## :zap: Recent Activity 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/joshi-kaushal/prep-portfolio-22.JUL.PREP.2/pull/1) in [joshi-kaushal/prep-portfolio-22.JUL.PREP.2](https://github.com/joshi-kaushal/prep-portfolio-22.JUL.PREP.2)
-2. 💪 Opened PR [#1](https://github.com/joshi-kaushal/prep-portfolio-22.JUL.PREP.2/pull/1) in [joshi-kaushal/prep-portfolio-22.JUL.PREP.2](https://github.com/joshi-kaushal/prep-portfolio-22.JUL.PREP.2)
-3. ❗️ Opened issue [#33](https://github.com/MLH-Fellowship/prep-portfolio-22.JUL.PREP.2/issues/33) in [MLH-Fellowship/prep-portfolio-22.JUL.PREP.2](https://github.com/MLH-Fellowship/prep-portfolio-22.JUL.PREP.2)
+1. 💪 Opened PR [#35](https://github.com/MLH-Fellowship/prep-portfolio-22.JUL.PREP.2/pull/35) in [MLH-Fellowship/prep-portfolio-22.JUL.PREP.2](https://github.com/MLH-Fellowship/prep-portfolio-22.JUL.PREP.2)
+2. 💪 Opened PR [#2](https://github.com/joshi-kaushal/prep-portfolio-22.JUL.PREP.2/pull/2) in [joshi-kaushal/prep-portfolio-22.JUL.PREP.2](https://github.com/joshi-kaushal/prep-portfolio-22.JUL.PREP.2)
+3. 🎉 Merged PR [#1](https://github.com/joshi-kaushal/prep-portfolio-22.JUL.PREP.2/pull/1) in [joshi-kaushal/prep-portfolio-22.JUL.PREP.2](https://github.com/joshi-kaushal/prep-portfolio-22.JUL.PREP.2)
 <!--END_SECTION:activity-->
 
 ## ✍ Latest Blogs

@@ -7,9 +7,9 @@ I have been software development intern at [HackerNoon](https://hackernoon.com/)
 
 ## :zap: Recent Activity 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/MLH-Fellowship/prep-project-22.JUL.PREP.2/issues/27) in [MLH-Fellowship/prep-project-22.JUL.PREP.2](https://github.com/MLH-Fellowship/prep-project-22.JUL.PREP.2)
+1. 🗣 Commented on [#36](https://github.com/MLH-Fellowship/prep-project-22.JUL.PREP.2/issues/36) in [MLH-Fellowship/prep-project-22.JUL.PREP.2](https://github.com/MLH-Fellowship/prep-project-22.JUL.PREP.2)
 2. 🗣 Commented on [#27](https://github.com/MLH-Fellowship/prep-project-22.JUL.PREP.2/issues/27) in [MLH-Fellowship/prep-project-22.JUL.PREP.2](https://github.com/MLH-Fellowship/prep-project-22.JUL.PREP.2)
-3. 🗣 Commented on [#34](https://github.com/MLH-Fellowship/prep-project-22.JUL.PREP.2/issues/34) in [MLH-Fellowship/prep-project-22.JUL.PREP.2](https://github.com/MLH-Fellowship/prep-project-22.JUL.PREP.2)
+3. 🗣 Commented on [#27](https://github.com/MLH-Fellowship/prep-project-22.JUL.PREP.2/issues/27) in [MLH-Fellowship/prep-project-22.JUL.PREP.2](https://github.com/MLH-Fellowship/prep-project-22.JUL.PREP.2)
 <!--END_SECTION:activity-->
 
 ## ✍ Latest Blogs

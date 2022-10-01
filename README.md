@@ -15,11 +15,11 @@ I have been software development intern at [HackerNoon](https://hackernoon.com/)
 ## ✍ Latest Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [Hacktoberfest 101 with ReactPlay](https://blog.kaushaljoshi.dev/hacktoberfest-101-with-reactplay)
 - [Three Ways to Remove Console Statements From Production Build](https://blog.kaushaljoshi.dev/remove-console-statements-from-production)
 - [How to Add Script Tags in React](https://blog.kaushaljoshi.dev/how-to-add-script-tags-in-react)
 - [How to Fetch Large Data Files Through GitHub API](https://blog.kaushaljoshi.dev/how-to-fetch-large-data-files-through-github-api)
 - [How to Keep SSH Connection Alive for Longer Durations](https://blog.kaushaljoshi.dev/how-to-keep-ssh-connection-alive-for-longer-durations)
-- [RuPay: The Indian Card Payment Alternative Rivals Visa and Mastercard](https://blog.kaushaljoshi.dev/rupay-the-indian-card-payment-alternative-rivals-visa-and-mastercard)
 <!-- BLOG-POST-LIST:END -->
 
 

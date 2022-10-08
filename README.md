@@ -7,9 +7,9 @@ I have been software development intern at [HackerNoon](https://hackernoon.com/)
 
 ## :zap: Recent Activity 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#51](https://github.com/praveenscience/easya-website/issues/51) in [praveenscience/easya-website](https://github.com/praveenscience/easya-website)
-2. 🗣 Commented on [#25](https://github.com/sushrut111/corona-virus-questionnaire/issues/25) in [sushrut111/corona-virus-questionnaire](https://github.com/sushrut111/corona-virus-questionnaire)
-3. 🗣 Commented on [#1470](https://github.com/EddieHubCommunity/LinkFree/issues/1470) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+1. 🗣 Commented on [#603](https://github.com/reactplay/react-play/issues/603) in [reactplay/react-play](https://github.com/reactplay/react-play)
+2. 🗣 Commented on [#51](https://github.com/praveenscience/easya-website/issues/51) in [praveenscience/easya-website](https://github.com/praveenscience/easya-website)
+3. 🗣 Commented on [#25](https://github.com/sushrut111/corona-virus-questionnaire/issues/25) in [sushrut111/corona-virus-questionnaire](https://github.com/sushrut111/corona-virus-questionnaire)
 <!--END_SECTION:activity-->
 
 ## ✍ Latest Blogs

@@ -7,9 +7,9 @@ I have been software development intern at [HackerNoon](https://hackernoon.com/)
 
 ## :zap: Recent Activity 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/reactplay/hacktoberfest/issues/16) in [reactplay/hacktoberfest](https://github.com/reactplay/hacktoberfest)
-2. ❗️ Opened issue [#683](https://github.com/reactplay/react-play/issues/683) in [reactplay/react-play](https://github.com/reactplay/react-play)
-3. 🎉 Merged PR [#6](https://github.com/joshi-kaushal/members-only/pull/6) in [joshi-kaushal/members-only](https://github.com/joshi-kaushal/members-only)
+1. 🗣 Commented on [#10](https://github.com/reactplay/hacktoberfest/issues/10) in [reactplay/hacktoberfest](https://github.com/reactplay/hacktoberfest)
+2. 🗣 Commented on [#17](https://github.com/reactplay/hacktoberfest/issues/17) in [reactplay/hacktoberfest](https://github.com/reactplay/hacktoberfest)
+3. 🗣 Commented on [#16](https://github.com/reactplay/hacktoberfest/issues/16) in [reactplay/hacktoberfest](https://github.com/reactplay/hacktoberfest)
 <!--END_SECTION:activity-->
 
 ## ✍ Latest Blogs

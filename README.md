@@ -7,9 +7,9 @@ I have been software development intern at [HackerNoon](https://hackernoon.com/)
 
 ## :zap: Recent Activity 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/reactplay/hacktoberfest/issues/25) in [reactplay/hacktoberfest](https://github.com/reactplay/hacktoberfest)
-2. ❗️ Closed issue [#16](https://github.com/reactplay/hacktoberfest/issues/16) in [reactplay/hacktoberfest](https://github.com/reactplay/hacktoberfest)
-3. 🎉 Merged PR [#22](https://github.com/reactplay/hacktoberfest/pull/22) in [reactplay/hacktoberfest](https://github.com/reactplay/hacktoberfest)
+1. ❗️ Closed issue [#27](https://github.com/reactplay/hacktoberfest/issues/27) in [reactplay/hacktoberfest](https://github.com/reactplay/hacktoberfest)
+2. 🗣 Commented on [#27](https://github.com/reactplay/hacktoberfest/issues/27) in [reactplay/hacktoberfest](https://github.com/reactplay/hacktoberfest)
+3. 🎉 Merged PR [#28](https://github.com/reactplay/hacktoberfest/pull/28) in [reactplay/hacktoberfest](https://github.com/reactplay/hacktoberfest)
 <!--END_SECTION:activity-->
 
 ## ✍ Latest Blogs

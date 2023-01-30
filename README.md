@@ -7,9 +7,9 @@ Currently working as a content writer at [The Dapp List](https://thedapplist.com
 
 ## :zap: Recent Activity 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#571](https://github.com/saadpasta/developerFolio/issues/571) in [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio)
-2. 🗣 Commented on [#59](https://github.com/reactplay/react-play/issues/59) in [reactplay/react-play](https://github.com/reactplay/react-play)
-3. 🗣 Commented on [#779](https://github.com/reactplay/react-play/issues/779) in [reactplay/react-play](https://github.com/reactplay/react-play)
+1. 🗣 Commented on [#127](https://github.com/reactplay/activities/issues/127) in [reactplay/activities](https://github.com/reactplay/activities)
+2. 🗣 Commented on [#571](https://github.com/saadpasta/developerFolio/issues/571) in [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio)
+3. 🗣 Commented on [#59](https://github.com/reactplay/react-play/issues/59) in [reactplay/react-play](https://github.com/reactplay/react-play)
 <!--END_SECTION:activity-->
 
 ## ✍ Latest Blogs

@@ -15,11 +15,11 @@ Currently working as a content writer at [The Dapp List](https://thedapplist.com
 ## ✍ Latest Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Create React App Really Dead? What Are Other Options?](https://blog.kaushaljoshi.dev/cra-problems-n-alternatives)
 - [Dev Retro 2022 — The Year of Firsts](https://blog.kaushaljoshi.dev/2022-in-a-nutshell)
 - [Hacktoberfest 101 with ReactPlay](https://blog.kaushaljoshi.dev/hacktoberfest-101-with-reactplay)
 - [Three Ways to Remove Console Statements From Production Build](https://blog.kaushaljoshi.dev/remove-console-statements-from-production)
 - [How to Add Script Tags in React](https://blog.kaushaljoshi.dev/how-to-add-script-tags-in-react)
-- [How to Fetch Large Data Files Through GitHub API](https://blog.kaushaljoshi.dev/how-to-fetch-large-data-files-through-github-api)
 <!-- BLOG-POST-LIST:END -->
 
 

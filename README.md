@@ -7,9 +7,9 @@ Currently working as a content writer at [The Dapp List](https://thedapplist.com
 
 ## :zap: Recent Activity 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#226](https://github.com/cilium/cilium.io/issues/226) in [cilium/cilium.io](https://github.com/cilium/cilium.io)
-2. 🗣 Commented on [#779](https://github.com/reactplay/react-play/issues/779) in [reactplay/react-play](https://github.com/reactplay/react-play)
-3. 🗣 Commented on [#573](https://github.com/saadpasta/developerFolio/issues/573) in [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio)
+1. ❗️ Opened issue [#21](https://github.com/reactplay/docs/issues/21) in [reactplay/docs](https://github.com/reactplay/docs)
+2. 🗣 Commented on [#226](https://github.com/cilium/cilium.io/issues/226) in [cilium/cilium.io](https://github.com/cilium/cilium.io)
+3. 🗣 Commented on [#779](https://github.com/reactplay/react-play/issues/779) in [reactplay/react-play](https://github.com/reactplay/react-play)
 <!--END_SECTION:activity-->
 
 ## ✍ Latest Blogs

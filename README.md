@@ -7,9 +7,9 @@ Currently working as a content writer at [The Dapp List](https://thedapplist.com
 
 ## :zap: Recent Activity 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](https://github.com/reactplay/docs/pull/22) in [reactplay/docs](https://github.com/reactplay/docs)
-2. ❗️ Opened issue [#21](https://github.com/reactplay/docs/issues/21) in [reactplay/docs](https://github.com/reactplay/docs)
-3. 🗣 Commented on [#226](https://github.com/cilium/cilium.io/issues/226) in [cilium/cilium.io](https://github.com/cilium/cilium.io)
+1. 💪 Opened PR [#24](https://github.com/reactplay/docs/pull/24) in [reactplay/docs](https://github.com/reactplay/docs)
+2. 🎉 Merged PR [#1](https://github.com/joshi-kaushal/reactplay-docs/pull/1) in [joshi-kaushal/reactplay-docs](https://github.com/joshi-kaushal/reactplay-docs)
+3. 💪 Opened PR [#1](https://github.com/joshi-kaushal/reactplay-docs/pull/1) in [joshi-kaushal/reactplay-docs](https://github.com/joshi-kaushal/reactplay-docs)
 <!--END_SECTION:activity-->
 
 ## ✍ Latest Blogs

@@ -7,9 +7,9 @@ Currently working as a content writer at [The Dapp List](https://thedapplist.com
 
 ## :zap: Recent Activity 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/reactplay/docs/issues/24) in [reactplay/docs](https://github.com/reactplay/docs)
-2. 💪 Opened PR [#24](https://github.com/reactplay/docs/pull/24) in [reactplay/docs](https://github.com/reactplay/docs)
-3. 🎉 Merged PR [#1](https://github.com/joshi-kaushal/reactplay-docs/pull/1) in [joshi-kaushal/reactplay-docs](https://github.com/joshi-kaushal/reactplay-docs)
+1. ❌ Closed PR [#25](https://github.com/sushrut111/corona-virus-questionnaire/pull/25) in [sushrut111/corona-virus-questionnaire](https://github.com/sushrut111/corona-virus-questionnaire)
+2. 🎉 Merged PR [#2](https://github.com/joshi-kaushal/prep-portfolio-22.JUL.PREP.2/pull/2) in [joshi-kaushal/prep-portfolio-22.JUL.PREP.2](https://github.com/joshi-kaushal/prep-portfolio-22.JUL.PREP.2)
+3. 🗣 Commented on [#24](https://github.com/reactplay/docs/issues/24) in [reactplay/docs](https://github.com/reactplay/docs)
 <!--END_SECTION:activity-->
 
 ## ✍ Latest Blogs

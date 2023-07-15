@@ -15,11 +15,11 @@ Currently working as a content writer at [The Dapp List](https://thedapplist.com
 ## ✍ Latest Blogs
 
 <!-- BLOG-POST-LIST:START -->
-- [Reflections on MumbaiFOSS: My Experience and Takeaways](https://blog.kaushaljoshi.dev/mumbaifoss-23)
-- [Is Create React App Really Dead? What Are Other Options?](https://blog.kaushaljoshi.dev/cra-problems-n-alternatives)
-- [Dev Retro 2022 — The Year of Firsts](https://blog.kaushaljoshi.dev/2022-in-a-nutshell)
-- [Hacktoberfest 101 with ReactPlay](https://blog.kaushaljoshi.dev/hacktoberfest-101-with-reactplay)
-- [Three Ways to Remove Console Statements From Production Build](https://blog.kaushaljoshi.dev/remove-console-statements-from-production)
+- [Reflections on MumbaiFOSS: My Experience and Takeaways](https://clumsycoder.hashnode.dev/mumbaifoss-23)
+- [Is Create React App Really Dead? What Are Other Options?](https://clumsycoder.hashnode.dev/cra-problems-n-alternatives)
+- [Dev Retro 2022 — The Year of Firsts](https://clumsycoder.hashnode.dev/2022-in-a-nutshell)
+- [Hacktoberfest 101 with ReactPlay](https://clumsycoder.hashnode.dev/hacktoberfest-101-with-reactplay)
+- [Three Ways to Remove Console Statements From Production Build](https://clumsycoder.hashnode.dev/remove-console-statements-from-production)
 <!-- BLOG-POST-LIST:END -->
 
 

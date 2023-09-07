@@ -7,9 +7,9 @@ Currently working as a content writer at [The Dapp List](https://thedapplist.com
 
 ## :zap: Recent Activity 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#578](https://github.com/reactplay/react-play/issues/578#issuecomment-1586564195) in [reactplay/react-play](https://github.com/reactplay/react-play)
-2. 🗣 Commented on [#578](https://github.com/reactplay/react-play/issues/578#issuecomment-1586562516) in [reactplay/react-play](https://github.com/reactplay/react-play)
-3. 🗣 Commented on [#18](https://github.com/reactplay/hacktoberfest/issues/18#issuecomment-1534017028) in [reactplay/hacktoberfest](https://github.com/reactplay/hacktoberfest)
+1. 🗣 Commented on [#263](https://github.com/reactplay/react-play/issues/263#issuecomment-1710147690) in [reactplay/react-play](https://github.com/reactplay/react-play)
+2. 🗣 Commented on [#578](https://github.com/reactplay/react-play/issues/578#issuecomment-1586564195) in [reactplay/react-play](https://github.com/reactplay/react-play)
+3. 🗣 Commented on [#578](https://github.com/reactplay/react-play/issues/578#issuecomment-1586562516) in [reactplay/react-play](https://github.com/reactplay/react-play)
 <!--END_SECTION:activity-->
 
 ## ✍ Latest Blogs

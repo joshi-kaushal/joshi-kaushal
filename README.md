@@ -7,9 +7,9 @@ Currently working as a content writer at [The Dapp List](https://thedapplist.com
 
 ## :zap: Recent Activity 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1417](https://github.com/reactplay/react-play/pull/1417) in [reactplay/react-play](https://github.com/reactplay/react-play)
-2. 🎉 Merged PR [#1426](https://github.com/reactplay/react-play/pull/1426) in [reactplay/react-play](https://github.com/reactplay/react-play)
-3. 🔒 Closed issue [#1399](https://github.com/reactplay/react-play/issues/1399) in [reactplay/react-play](https://github.com/reactplay/react-play)
+1. 💪 Opened PR [#1382](https://github.com/google/season-of-docs/pull/1382) in [google/season-of-docs](https://github.com/google/season-of-docs)
+2. 🎉 Merged PR [#1417](https://github.com/reactplay/react-play/pull/1417) in [reactplay/react-play](https://github.com/reactplay/react-play)
+3. 🎉 Merged PR [#1426](https://github.com/reactplay/react-play/pull/1426) in [reactplay/react-play](https://github.com/reactplay/react-play)
 <!--END_SECTION:activity-->
 
 ## ✍ Latest Blogs

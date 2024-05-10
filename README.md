@@ -7,9 +7,9 @@ Currently working as a content writer at [The Dapp List](https://thedapplist.com
 
 ## :zap: Recent Activity 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1384](https://github.com/google/season-of-docs/pull/1384) in [google/season-of-docs](https://github.com/google/season-of-docs)
-2. ❌ Closed PR [#1382](https://github.com/google/season-of-docs/pull/1382) in [google/season-of-docs](https://github.com/google/season-of-docs)
-3. 💪 Opened PR [#1382](https://github.com/google/season-of-docs/pull/1382) in [google/season-of-docs](https://github.com/google/season-of-docs)
+1. 🗣 Commented on [#39](https://github.com/thatbeautifuldream/ai-roadmap-generator/issues/39#issuecomment-2104303471) in [thatbeautifuldream/ai-roadmap-generator](https://github.com/thatbeautifuldream/ai-roadmap-generator)
+2. 💪 Opened PR [#1384](https://github.com/google/season-of-docs/pull/1384) in [google/season-of-docs](https://github.com/google/season-of-docs)
+3. ❌ Closed PR [#1382](https://github.com/google/season-of-docs/pull/1382) in [google/season-of-docs](https://github.com/google/season-of-docs)
 <!--END_SECTION:activity-->
 
 ## ✍ Latest Blogs

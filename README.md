@@ -7,9 +7,9 @@ Currently working as a content writer at [The Dapp List](https://thedapplist.com
 
 ## :zap: Recent Activity 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Initial Release](https://github.com/joshi-kaushal/yt-wl-roast/releases/tag/v0.1.0) in [joshi-kaushal/yt-wl-roast](https://github.com/joshi-kaushal/yt-wl-roast)
-2. ❗ Opened issue [#3](https://github.com/joshi-kaushal/odyssey/issues/3) in [joshi-kaushal/odyssey](https://github.com/joshi-kaushal/odyssey)
-3. ❗ Opened issue [#2](https://github.com/joshi-kaushal/odyssey/issues/2) in [joshi-kaushal/odyssey](https://github.com/joshi-kaushal/odyssey)
+1. 🎉 Merged PR [#4](https://github.com/joshi-kaushal/odyssey/pull/4) in [joshi-kaushal/odyssey](https://github.com/joshi-kaushal/odyssey)
+2. 💪 Opened PR [#4](https://github.com/joshi-kaushal/odyssey/pull/4) in [joshi-kaushal/odyssey](https://github.com/joshi-kaushal/odyssey)
+3. 🚀 Published release [Initial Release](https://github.com/joshi-kaushal/yt-wl-roast/releases/tag/v0.1.0) in [joshi-kaushal/yt-wl-roast](https://github.com/joshi-kaushal/yt-wl-roast)
 <!--END_SECTION:activity-->
 
 ## ✍ Latest Blogs

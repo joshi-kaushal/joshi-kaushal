@@ -7,9 +7,9 @@ Currently working as a content writer at [The Dapp List](https://thedapplist.com
 
 ## :zap: Recent Activity 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/joshi-kaushal/lexical/pull/1) in [joshi-kaushal/lexical](https://github.com/joshi-kaushal/lexical)
-2. ❌ Closed PR [#6576](https://github.com/facebook/lexical/pull/6576) in [facebook/lexical](https://github.com/facebook/lexical)
-3. 💪 Opened PR [#6576](https://github.com/facebook/lexical/pull/6576) in [facebook/lexical](https://github.com/facebook/lexical)
+1. 🗣 Commented on [#1504](https://github.com/reactplay/react-play/issues/1504#issuecomment-2362834236) in [reactplay/react-play](https://github.com/reactplay/react-play)
+2. 💪 Opened PR [#1](https://github.com/joshi-kaushal/lexical/pull/1) in [joshi-kaushal/lexical](https://github.com/joshi-kaushal/lexical)
+3. ❌ Closed PR [#6576](https://github.com/facebook/lexical/pull/6576) in [facebook/lexical](https://github.com/facebook/lexical)
 <!--END_SECTION:activity-->
 
 ## ✍ Latest Blogs

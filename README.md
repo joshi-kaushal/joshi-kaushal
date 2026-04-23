@@ -7,8 +7,8 @@ Currently working as a content writer at [The Dapp List](https://thedapplist.com
 
 ## :zap: Recent Activity 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1502](https://github.com/reactplay/react-play/issues/1502#issuecomment-2365019252) in [reactplay/react-play](https://github.com/reactplay/react-play)
-2. 🗣 Commented on [#1504](https://github.com/reactplay/react-play/issues/1504#issuecomment-2362834236) in [reactplay/react-play](https://github.com/reactplay/react-play)
+1. 🎉 Merged PR [#1](https://github.com/joshi-kaushal/liaw-backend/pull/1) in [joshi-kaushal/liaw-backend](https://github.com/joshi-kaushal/liaw-backend)
+2. 💪 Opened PR [#1](https://github.com/joshi-kaushal/liaw-backend/pull/1) in [joshi-kaushal/liaw-backend](https://github.com/joshi-kaushal/liaw-backend)
 3. 💪 Opened PR [#1](https://github.com/joshi-kaushal/lexical/pull/1) in [joshi-kaushal/lexical](https://github.com/joshi-kaushal/lexical)
 <!--END_SECTION:activity-->
 

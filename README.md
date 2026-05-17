@@ -7,9 +7,9 @@ Currently working as a content writer at [The Dapp List](https://thedapplist.com
 
 ## :zap: Recent Activity 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/joshi-kaushal/odyssey/pull/1) in [joshi-kaushal/odyssey](https://github.com/joshi-kaushal/odyssey)
-2. 💪 Opened PR [#1](https://github.com/joshi-kaushal/odyssey/pull/1) in [joshi-kaushal/odyssey](https://github.com/joshi-kaushal/odyssey)
-3. 🎉 Merged PR [#4](https://github.com/joshi-kaushal/liaw-backend/pull/4) in [joshi-kaushal/liaw-backend](https://github.com/joshi-kaushal/liaw-backend)
+1. 🎉 Merged PR [#5](https://github.com/joshi-kaushal/liaw-backend/pull/5) in [joshi-kaushal/liaw-backend](https://github.com/joshi-kaushal/liaw-backend)
+2. 💪 Opened PR [#5](https://github.com/joshi-kaushal/liaw-backend/pull/5) in [joshi-kaushal/liaw-backend](https://github.com/joshi-kaushal/liaw-backend)
+3. 🎉 Merged PR [#1](https://github.com/joshi-kaushal/odyssey/pull/1) in [joshi-kaushal/odyssey](https://github.com/joshi-kaushal/odyssey)
 <!--END_SECTION:activity-->
 
 ## ✍ Latest Blogs

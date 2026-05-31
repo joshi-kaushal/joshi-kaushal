@@ -7,9 +7,9 @@ Currently working as a content writer at [The Dapp List](https://thedapplist.com
 
 ## :zap: Recent Activity 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/joshi-kaushal/liaw-backend/pull/6) in [joshi-kaushal/liaw-backend](https://github.com/joshi-kaushal/liaw-backend)
-2. 💪 Opened PR [#6](https://github.com/joshi-kaushal/liaw-backend/pull/6) in [joshi-kaushal/liaw-backend](https://github.com/joshi-kaushal/liaw-backend)
-3. 🎉 Merged PR [#5](https://github.com/joshi-kaushal/liaw-backend/pull/5) in [joshi-kaushal/liaw-backend](https://github.com/joshi-kaushal/liaw-backend)
+1. 🎉 Merged PR [#7](https://github.com/joshi-kaushal/liaw-backend/pull/7) in [joshi-kaushal/liaw-backend](https://github.com/joshi-kaushal/liaw-backend)
+2. 💪 Opened PR [#7](https://github.com/joshi-kaushal/liaw-backend/pull/7) in [joshi-kaushal/liaw-backend](https://github.com/joshi-kaushal/liaw-backend)
+3. 🎉 Merged PR [#6](https://github.com/joshi-kaushal/liaw-backend/pull/6) in [joshi-kaushal/liaw-backend](https://github.com/joshi-kaushal/liaw-backend)
 <!--END_SECTION:activity-->
 
 ## ✍ Latest Blogs
